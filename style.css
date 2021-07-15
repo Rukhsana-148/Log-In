@@ -1,0 +1,86 @@
+*{
+    margin : 0;
+    padding : 0;
+    box-sizing : border-box;
+}
+.container{
+    max-width : 1368px;
+    height : 199vh;
+    background: linear-gradient(rgb(171 , 123 , 241) ,rgb(172, 170, 243));
+}
+.login{
+    margin-top : 100px;
+    background-color: rgb(255, 255, 255);
+    padding-top: 20px;
+    padding-left: 40px;
+    padding-bottom: 30px;
+    border-radius: 20px;
+    margin-bottom: 60px;
+}
+.form{
+    box-shadow: 3px 0 3px 3px rgb(150, 145, 145);
+    padding-bottom: 24px;
+}
+h4{
+    font-weight : bolder;
+}
+p{
+    font-size : 13px;
+}
+p a{
+    text-decoration: underline;
+    color : rgb(136, 63, 255);
+}
+span{
+    font-size : 13px;
+    font-weight : bold
+}
+span{
+    margin-right : 130px;
+}
+input{
+    margin-bottom: 10px;
+    font-size : 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    border : none;
+    outline : none;
+    border : 1px solid rgb(196, 189, 189);
+    padding-left : 12px;
+}
+.get {
+    text-decoration: underline;
+    font-size : 12px;
+    color : rgb(136, 63, 255);
+}
+.sub{
+    width : 75%;
+    background-color: rgb(136, 63, 255);
+    color : white;
+    margin-top : 50px;
+    margin-bottom : 40px;
+}
+.face{
+    width : 150px;
+    border : 1px solid cornflowerblue;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right : 50px;
+    color :cornflowerblue;
+}
+.google{
+    width : 150px;
+    border : 1px solid rgb(179, 76, 76);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color : rgb(197, 89, 89)
+}
+
+img{
+    margin-top: 60px;
+}
+.image{
+    background-color: rgb(255, 255, 255);
+    padding-top: 20px;
+}
